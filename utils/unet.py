@@ -2,11 +2,11 @@
 
 # The file is copied and modified from 
 # 
-# Authors
-# Title
-# Published
+# C.-W. Huang, J. H. Lim, and A. Courville. 
+# A variational perspective on diffusion-based generative models and score matching. 
+# Advances in Neural Information Processing Systems, 2021
 # 
-# Code from 
+# Code from https://github.com/CW-Huang/sdeflow-light
 
 """
 Copied and modified from https://github.com/hojonathanho/diffusion/blob/master/diffusion_tf/models/unet.py
