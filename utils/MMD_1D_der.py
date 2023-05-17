@@ -1,10 +1,12 @@
+#!/usr/bin/env python
+
 # This code belongs to the paper
 #
 # J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2023)
 # Generative Sliced MMD Flows with Riesz Kernels.
 # Arxiv Preprint ...
 # 
-#
+
 import torch
 import math
 import numpy as np

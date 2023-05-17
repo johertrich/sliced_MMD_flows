@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+
+# The file is copied and modified from 
+# 
+# Authors
+# Title
+# Published
+# 
+# Code from 
+
 """
 Copied and modified from https://github.com/hojonathanho/diffusion/blob/master/diffusion_tf/models/unet.py
 Copied and modified from https://github.com/hojonathanho/diffusion/blob/master/diffusion_tf/nn.py

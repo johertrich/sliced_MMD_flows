@@ -8,14 +8,14 @@
 import numpy as np
 import time
 import matplotlib.pyplot as plt
-from MMD_1D_der import *
+from utils.MMD_1D_der import *
 import torchvision.datasets as td
 from torchvision.utils import make_grid
 from torchvision.transforms import transforms
 from torch.utils.data import DataLoader
 import pickle
 import copy
-from unet import UNet
+from utils.unet import UNet
 
 device='cuda'
 dtype=torch.float
@@ -114,8 +114,6 @@ while True:
         if (step+1)%2000==0:
             print('Compute flow',step,time.time()-tic)
         step=step+1
-        #print((MMD_grad**2).sum().item())
-
     print('Train network',step,time.time()-tic)
 
     # difference to approximate
