@@ -8,7 +8,7 @@ The code is written in PyTorch 2.0.0.
 If you have any questions feel free to contact  
 Johannes Hertrich (j.hertrich@math.tu-berlin.de)  
 Christian Wald (wald@math.tu-berlin.de)  
-Fabian Altekrüber (fabian.altekrueger@hu-berlin.de)  
+Fabian Altekrüger (fabian.altekrueger@hu-berlin.de)  
 or Paul Hagemann (hagemann@math.tu-berlin.de)
 
 ## REFERENCE
