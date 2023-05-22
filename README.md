@@ -15,4 +15,4 @@ or Paul Hagemann (hagemann@math.tu-berlin.de)
 
 [1] J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2023)  
 Generative Sliced MMD Flows with Riesz Kernels.  
-Arxiv Preprint ... 
+Preprint available under https://arxiv.org/abs/2305.11463
