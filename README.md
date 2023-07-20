@@ -1,6 +1,6 @@
 # Generative Sliced MMD Flows with Riesz Kernels
 
-Implementation to the paper "Generative Sliced MMD Flows with Riesz Kernels" available at INSERT LINK. 
+Implementation to the paper "Generative Sliced MMD Flows with Riesz Kernels" available at https://arxiv.org/abs/2305.11463. 
 
 The files `run_MNIST.py`, `run_FashionMNIST.py` and `run_CIFAR.py` reproduce the training of generative sliced MMD flows from Section 5 of the paper.
 The code is written in PyTorch 2.0.0.

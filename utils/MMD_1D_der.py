@@ -4,7 +4,7 @@
 #
 # J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2023)
 # Generative Sliced MMD Flows with Riesz Kernels.
-# Arxiv Preprint ...
+# Arxiv Preprint 2305.11463
 # 
 
 import torch
