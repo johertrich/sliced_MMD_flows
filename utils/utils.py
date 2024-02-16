@@ -1,8 +1,8 @@
 # This code belongs to the paper
 #
-# J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2023)
+# J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2024)
 # Generative Sliced MMD Flows with Riesz Kernels.
-# Arxiv Preprint 2305.11463
+# International Conference on Learning Representations.
 
 import torch
 import matplotlib.pyplot as plt

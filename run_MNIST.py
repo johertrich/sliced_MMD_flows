@@ -1,10 +1,10 @@
 # This code belongs to the paper
 #
-# J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2023)
+# J. Hertrich, C. Wald, F. Altekrüger and P. Hagemann (2024)
 # Generative Sliced MMD Flows with Riesz Kernels.
-# Arxiv Preprint 2305.11463
+# International Conference on Learning Representations.
 #
-#It reproduced the MNIST example from Section 5.
+# It reproduces the MNIST example from Section 5.
 
 import torch
 import torch.nn.functional as F
